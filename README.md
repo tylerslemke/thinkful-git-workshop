@@ -56,5 +56,6 @@ ___
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
 Elif Demir
+[Tyler S Lemke](https://github.com/tylerslemke)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
